@@ -5,7 +5,7 @@ function Gameplay({toggle}) {
     <div>
       <div>
       <div className='flex'>
-    <img className='w-[649px] h-[522px] ml-[129px] mt-[140px]'src='/images/dice.png?v=1'></img>
+    <img className='w-[649px] h-[522px] ml-[129px] mt-[140px]'src='/images/dice_new.png?v=1'></img>
     <div className='mt-[300px]  w-[550px] h-[188px] text-[80px] font-serif font-extrabold'>DICE GAME</div>
     
     </div>
