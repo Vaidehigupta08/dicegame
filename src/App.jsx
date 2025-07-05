@@ -12,9 +12,9 @@ setIsstarted((prev)=>!prev);
 
   return (
    <>
-   {Isstarted ? <Gameplay 
+   {Isstarted ?<Startedgame/>: <Gameplay 
    toggle={togglegame}
-   />:<Startedgame/>};
+   />};
    
    </>
   )
